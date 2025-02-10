@@ -7,3 +7,5 @@ M
 tests/ip-registration.test.ts,d/1/d1af5956f90d37e8eb10704a35788d07175ea187
 Q
 !contracts/dispute-resolution.clar,5/a/5acd40b2788851c069b177145b3954820caeb4e5
+H
+contracts/licensing.clar,4/8/485e681ac1dcfe7f9c9c2270616cc7f37b7d33ba
